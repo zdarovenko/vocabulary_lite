@@ -2179,154 +2179,154 @@ const dictionary = [
         russian: 'направлять, посылать',
         german: 'schicken'
     },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
+	{
+		russian: 'passieren',
+		german: 'происходить'
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
+	{
+		russian: '',
+		german: ''
+	},
 	
 ];
 
