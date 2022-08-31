@@ -2180,153 +2180,293 @@ const dictionary = [
         german: 'schicken'
     },
 	{
-		russian: 'passieren',
-		german: 'происходить'
+		russian: 'происходить',
+		german: 'passieren'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'стиральный порошок',
+		german: 'das Waschmittel'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'чистящее средство',
+		german: 'das Reinigungsmittel'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'личная гигиена',
+		german: 'die Körperpflege'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'полка',
+		german: 'das Regal, Regalien'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'бумажник',
+		german: 'die Brieftasche, Brieftaschen'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'кошелек, портмоне',
+		german: 'der Geldbeutel, Geldbeutel'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'мелочь (деньги)',
+		german: 'das Kleingeld'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'кредитная карта',
+		german: 'die Kreditkarte, Kreditkarten'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'чек',
+		german: 'der Scheck, Schecke'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'пластиковый пакет',
+		german: 'die Plastiktüte, Plastiktüten'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'мясо',
+		german: 'das Fleisch'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'птица (мясо)',
+		german: 'das Geflügel'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'молочный продукт',
+		german: 'das Milchprodukt, Milchprodukte'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'выпечка',
+		german: 'die Backware, Backwaren'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'кассирша',
+		german: 'die Kassiererin, Kassiererinnen'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'касса',
+		german: 'die Kasse, Kassen'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'магазинная тележка',
+		german: 'die Einkaufswagen, Einkaufswägen'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'стаканчик (упаковка)',
+		german: 'die Büchse, Büchsen'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'тюбик, трубка',
+		german: 'die Tube, Tuben'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'пакет',
+		german: 'die Tüte, Tüten'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'дилер, продавец',
+		german: 'der Händler, Händler'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'арбуз',
+		german: 'die Wassermelone'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'виноград',
+		german: 'die Traube, Trauben'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'дыня',
+		german: 'die Honigmelone'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'лимон',
+		german: 'die Zitrone, Zitronen'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'клубника',
+		german: 'die Erdbeere, Erdbeeren'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'вишня',
+		german: 'die Kirsche, Kirschen'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'банан',
+		german: 'die Banane, Bananen'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'ананас',
+		german: 'die Ananas, Ananas'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'слива',
+		german: 'die Pflaume, Pflaumen'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'инжир',
+		german: 'die Feige, Feigen'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'персик',
+		german: 'der Pfirsich, Pfirsiche'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'груша',
+		german: 'die Birne, Birnen'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'ценник',
+		german: 'das Preisschild, Preisschilder'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'вывеска',
+		german: 'das Ladenschild, Ladenschilder'
 	},
 	{
-		russian: '',
-		german: ''
+		russian: 'свежий',
+		german: 'frisch'
 	},
+	{
+		russian: 'хрустящий',
+		german: 'knackig'
+	},
+	{
+		russian: 'баклажан',
+		german: 'die Aubergine, Auberginen'
+	},
+	{
+		russian: 'гриб',
+		german: 'der Pilz, Pilze'
+	},
+	{
+		russian: 'морковь',
+		german: 'die Karotte, Karotten'
+	},
+	{
+		russian: 'капуста',
+		german: 'der Kohl, Kohle'
+	},
+	{
+		russian: 'лук',
+		german: 'die Zwiebel, Zwiebeln'
+	},
+	{
+		russian: 'ящик для овощей',
+		german: 'die Gemüsekiste, Gemüsekisten'
+	},
+	{
+		russian: 'перец, паприка',
+		german: 'der Paprika, Paprikas'
+	},
+	{
+		russian: 'решетка-ролл',
+		german: 'das Rollgitter, Rollgitter'
+	},
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
 	
 ];
 
