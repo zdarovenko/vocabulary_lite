@@ -2367,6 +2367,110 @@ const dictionary = [
 		russian: 'выбирать',
 		german: 'wählen'
 	},
+	{
+		russian: 'магазин',
+		german: 'das Geschäft, Geschäfte'
+	},
+	{
+		russian: 'товары для дома',
+		german: 'die Haushaltsware, Haushaltswaren'
+	},
+	{
+		russian: 'в самом деле (2)',
+		german: 'eigentlich'
+	},
+	{
+		russian: 'сладость',
+		german: 'die Süßigkeit, Sußigkeiten'
+	},
+	{
+		russian: 'мясник',
+		german: 'der Metzger, Metzger'
+	},
+	{
+		russian: 'чистый',
+		german: 'sauber'
+	},
+	{
+		russian: 'кислый',
+		german: 'sauer'
+	},
+	{
+		russian: 'свинья',
+		german: 'das Schwein, Schweine'
+	},
+	{
+		russian: 'скот, корова',
+		german: 'das Rind, Rinder'
+	},
+	{
+		russian: 'баранина',
+		german: 'das Lammfleisch'
+	},
+	{
+		russian: 'дичь',
+		german: 'das Wildfleisch'
+	},
+	{
+		russian: 'ингридиент',
+		german: 'die Zutat, Zutaten'
+	},
+	{
+		russian: 'некоторый (some)',
+		german: 'einige'
+	},
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
 	// {
 	// 	russian: '',
 	// 	german: ''
