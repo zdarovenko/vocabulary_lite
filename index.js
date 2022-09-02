@@ -2363,10 +2363,10 @@ const dictionary = [
 		russian: 'решетка-ролл',
 		german: 'das Rollgitter, Rollgitter'
 	},
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
+	{
+		russian: 'выбирать',
+		german: 'wählen'
+	},
 	// {
 	// 	russian: '',
 	// 	german: ''
