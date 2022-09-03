@@ -2381,7 +2381,7 @@ const dictionary = [
 	},
 	{
 		russian: 'сладость',
-		german: 'die Süßigkeit, Sußigkeiten'
+		german: 'die Süßigkeit, Süßigkeiten'
 	},
 	{
 		russian: 'мясник',
