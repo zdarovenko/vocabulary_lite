@@ -1,4 +1,4 @@
-const dictionary = [
+const dictionaryData = [
 	{
 		russian: 'смотреть, видеть',
 		german: 'sehen'
@@ -2575,26 +2575,34 @@ const dictionary = [
 ];
 
 
-
-
-
-
-
 let dictionaryIndex = 0;
 let errorsCount = 0;
 let completed = false;
+let dictionary = null;
+
 
 const main = document.getElementById('main');
+const restart = document.getElementById('restart');
+const init = document.getElementById('init');
+const all = document.getElementById('all');
+const last = document.getElementById('last');
 const input = document.getElementById('check');
 const quetsion = document.getElementById('question');
 const counter = document.getElementById('counter');
 const errorsCounter = document.getElementById('errors');
 
-shuffle(dictionary);
+restart.addEventListener('click', () => {
+	init.style.display = 'flex';
+	main.style.display = 'none';
+})
 
-updateCounters();
+last.addEventListener('click', () => {
+	start('last');
+})
 
-quetsion.innerHTML = dictionary[0].russian;
+all.addEventListener('click', () => {
+	start('all');
+})
 
 document.addEventListener('keydown', (event) => {
 	if (event.code === 'Enter') {
@@ -2602,6 +2610,34 @@ document.addEventListener('keydown', (event) => {
 		check();
 	}
 })
+
+function start(mode) {
+	dictionaryIndex = 0;
+	errorsCount = 0;
+	completed = false;
+	dictionary = null;
+
+	switch (mode) {
+		case 'all':
+			dictionary = dictionaryData;
+
+			break;
+		case 'last':
+			dictionary = dictionaryData.slice(dictionaryData.length - 100, dictionaryData.length);
+
+			break;
+		default:
+
+			break;
+	}
+
+	shuffle(dictionary);
+	updateCounters();
+	quetsion.innerHTML = dictionary[0].russian;
+
+	init.style.display = 'none';
+	main.style.display = 'flex';
+}
 
 function updateCounters() {
 	counter.innerHTML = `${dictionaryIndex}/${dictionary.length}`;
