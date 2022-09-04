@@ -2419,6 +2419,226 @@ const dictionaryData = [
 		russian: 'некоторый (some)',
 		german: 'einige'
 	},
+	{
+		russian: 'в дополнение к этому',
+		german: 'außerdem'
+	},
+	{
+		russian: 'мечтать',
+		german: 'träumen'
+	},
+	{
+		russian: 'помощница юриста',
+		german: 'die Auswaltsgehilfin, Auswaltsgehilfinnen'
+	},
+	{
+		russian: 'пунктуальный',
+		german: 'pünktlich'
+	},
+	{
+		russian: 'стройный',
+		german: 'schlank'
+	},
+	{
+		russian: 'просто, простой',
+		german: 'einfach'
+	},
+	{
+		russian: 'адвокат, юрист',
+		german: 'der Anwalt, Anwälte'
+	},
+	{
+		russian: 'грандиозный, большой',
+		german: 'großartig'
+	},
+	{
+		russian: 'вид (из окна)',
+		german: 'der Blick, Blicke'
+	},
+	{
+		russian: 'немедленно, тотчас',
+		german: 'sofort'
+	},
+	{
+		russian: 'вдруг, внезапно',
+		german: 'plötzlich'
+	},
+	{
+		russian: 'настоящий, подлинный',
+		german: 'echter'
+	},
+	{
+		russian: 'редкий',
+		german: 'selten'
+	},
+	{
+		russian: '= most',
+		german: 'meist'
+	},
+	{
+		russian: 'депутат',
+		german: 'die der Abgeordnete, Abgeordneten'
+	},
+	{
+		russian: 'тарелка',
+		german: 'der Teller, Teller'
+	},
+	{
+		russian: 'чашка',
+		german: 'die Tasse, Tassen'
+	},
+	{
+		russian: 'надевать, натягивать',
+		german: 'anziehen'
+	},
+	{
+		russian: 'выше, наверху',
+		german: 'oben'
+	},
+	{
+		russian: 'шаг',
+		german: 'der Schritt, Schritte'
+	},
+	{
+		russian: 'далекий, далеко',
+		german: 'weit'
+	},
+	{
+		russian: 'стоять в очереди',
+		german: 'Schlange stehen'
+	},
+	{
+		russian: 'змея',
+		german: 'die Schlange, Schlangen'
+	},
+	{
+		russian: 'чтобы',
+		german: 'damit'
+	},
+	{
+		russian: 'никто',
+		german: 'niemand'
+	},
+	{
+		russian: 'перила',
+		german: 'die Brüstung, Brüstungen'
+	},
+	{
+		russian: 'чувствовать',
+		german: 'empfinden'
+	},
+	{
+		russian: 'наслаждаться',
+		german: 'genießen'
+	},
+	{
+		russian: 'вид (синоним)',
+		german: 'die Aussicht, Aussichten'
+	},
+	{
+		russian: 'улыбнуться, оживиться (кому-то)',
+		german: 'anstrahlen'
+	},
+	{
+		russian: 'начинать, приступать',
+		german: 'anfangen'
+	},
+	{
+		russian: 'устрица',
+		german: 'die Auster, Austern'
+	},
+	{
+		russian: 'беременная',
+		german: 'schwanger'
+	},
+	{
+		russian: 'сооружение',
+		german: 'das Gebäude, Gebäude'
+	},
+	{
+		russian: 'замечать, отмечать',
+		german: 'merken'
+	},
+	{
+		russian: 'возможно',
+		german: 'möglich'
+	},
+	{
+		russian: 'поворачивать, крутить',
+		german: 'drehen'
+	},
+	{
+		russian: 'путешествие, поездка',
+		german: 'die Reise, Reisen'
+	},
+	{
+		russian: 'желать',
+		german: 'wünschen'
+	},
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
 	// {
 	// 	russian: '',
 	// 	german: ''
