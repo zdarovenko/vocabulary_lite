@@ -2429,7 +2429,7 @@ const dictionaryData = [
 	},
 	{
 		russian: 'помощница юриста',
-		german: 'die Auswaltsgehilfin, Auswaltsgehilfinnen'
+		german: 'die Anwaltsgehilfin, Anwaltsgehilfinnen'
 	},
 	{
 		russian: 'пунктуальный',
