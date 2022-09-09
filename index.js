@@ -2053,7 +2053,7 @@ const dictionaryData = [
     },
     {
         russian: 'главное блюдо',
-        german: 'die Hauptgericht, Hauptgerichte'
+        german: 'das Hauptgericht, Hauptgerichte'
     },
     {
         russian: 'десерт',
@@ -2575,14 +2575,14 @@ const dictionaryData = [
 		russian: 'желать',
 		german: 'wünschen'
 	},
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
+	{
+		russian: 'резать, нарезать',
+		german: 'schneiden'
+	},
+	{
+		russian: 'нож',
+		german: 'das Messer, Messer'
+	},
 	// {
 	// 	russian: '',
 	// 	german: ''
