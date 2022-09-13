@@ -2583,118 +2583,118 @@ const dictionaryData = [
 		russian: 'нож',
 		german: 'das Messer, Messer'
 	},
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
+	{
+		russian: 'наконец-то, в конце концов',
+		german: 'endlich'
+	},
+	{
+		russian: 'канцелярия',
+		german: 'die Kanzlei, Kanzleien'
+	},
+	{
+		russian: 'конверт',
+		german: 'der Briefumschlag, Briefumschlag'
+	},
+	{
+		russian: 'думать, рассуждать, соображать',
+		german: 'überlegen'
+	},
+	{
+		russian: 'бормотать, мямлить',
+		german: 'murmeln'
+	},
+	{
+		russian: 'пересаживаться (транспорт)',
+		german: 'umsteigen'
+	},
+	{
+		russian: 'садиться (транспорт)',
+		german: 'einsteigen'
+	},
+	{
+		russian: 'выходить (транспорт)',
+		german: 'aussteigen'
+	},
+	{
+		russian: 'проходить, пересекать',
+		german: 'überqueren'
+	},
+	{
+		russian: 'двор',
+		german: 'der Hof, Höfe'
+	},
+	{
+		russian: 'принадлежать',
+		german: 'gehören'
+	},
+	{
+		russian: 'лицо (часть тела)',
+		german: 'das Gesicht, Gesichter'
+	},
+	{
+		russian: 'бледный',
+		german: 'blass'
+	},
+	{
+		russian: 'надежный, верный',
+		german: 'zuverlässig'
+	},
+	{
+		russian: 'связь, взаимосвязь',
+		german: 'die Verbindung, Verbindungen'
+	},
+	{
+		russian: 'даже',
+		german: 'sogar'
+	},
+	{
+		russian: 'иметь в виду',
+		german: 'meinen'
+	},
+	{
+		russian: 'кто-то, кто-нибудь',
+		german: 'jemand'
+	},
+	{
+		russian: '= hopefully',
+		german: 'hoffentlich'
+	},
+	{
+		russian: 'в середине, в центре',
+		german: 'mitten'
+	},
+	{
+		russian: 'голова',
+		german: 'der Kopf, Köpfe'
+	},
+	{
+		russian: 'опасный',
+		german: 'gefährlich'
+	},
+	{
+		russian: 'наследство',
+		german: 'die Erbschaft, Erbschaften'
+	},
+	{
+		russian: 'бесцельно, бесцельный',
+		german: 'ziellos'
+	},
+	{
+		russian: 'грустный',
+		german: 'traurig'
+	},
+	{
+		russian: 'ужасно, ужасный',
+		german: 'schreklich'
+	},
+	{
+		russian: 'звонить, звенеть',
+		german: 'klingeln'
+	},
+	{
+		russian: 'взволнованно, нервно, судорожно',
+		german: 'aufgeregt'
+	},
 	// {
 	// 	russian: '',
 	// 	german: ''
