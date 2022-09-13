@@ -2805,6 +2805,7 @@ const main = document.getElementById('main');
 const restart = document.getElementById('restart');
 const init = document.getElementById('init');
 const all = document.getElementById('all');
+const mid = document.getElementById('mid');
 const last = document.getElementById('last');
 const input = document.getElementById('check');
 const quetsion = document.getElementById('question');
@@ -2818,6 +2819,10 @@ restart.addEventListener('click', () => {
 
 last.addEventListener('click', () => {
 	start('last');
+})
+
+mid.addEventListener('click', () => {
+	start('mid');
 })
 
 all.addEventListener('click', () => {
@@ -2840,6 +2845,10 @@ function start(mode) {
 	switch (mode) {
 		case 'all':
 			dictionary = dictionaryData;
+
+			break;
+		case 'mid':
+			dictionary = dictionaryData.slice(dictionaryData.length - 50, dictionaryData.length);
 
 			break;
 		case 'last':
