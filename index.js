@@ -417,7 +417,7 @@ const dictionaryData = [
 	},
 	{
 		russian: 'инженер',
-		german: 'der Ingenieur, Ingenieur'
+		german: 'der Ingenieur, Ingenieure'
 	},
 	{
 		russian: 'механик-электроник',
@@ -2695,29 +2695,29 @@ const dictionaryData = [
 		russian: 'взволнованно, нервно, судорожно',
 		german: 'aufgeregt'
 	},
+	{
+		russian: 'биржа',
+		german: 'die Börse, Börsen'
+	},
+	{
+		russian: 'небоскреб',
+		german: 'der Wolkenkratzer, Wolkenkratzer'
+	},
+	{
+		russian: 'производство (более конкретно)',
+		german: 'die Herstellung, Herstellungen'
+	},
+	{
+		russian: 'упаковать',
+		german: 'verpacken'
+	},
+	{
+		russian: 'упаковка',
+		german: 'die Verpackung, Verpackungen'
+	},
 	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
+	// 	russian: 'б/у',
+	// 	german: 'gebraucht'
 	// },
 	// {
 	// 	russian: '',
