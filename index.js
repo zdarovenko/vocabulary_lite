@@ -2715,10 +2715,10 @@ const dictionaryData = [
 		russian: 'упаковка',
 		german: 'die Verpackung, Verpackungen'
 	},
-	// {
-	// 	russian: 'б/у',
-	// 	german: 'gebraucht'
-	// },
+	{
+		russian: 'б/у',
+		german: 'gebraucht'
+	},
 	// {
 	// 	russian: '',
 	// 	german: ''
