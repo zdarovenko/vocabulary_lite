@@ -2719,42 +2719,42 @@ const dictionaryData = [
 		russian: 'б/у',
 		german: 'gebraucht'
 	},
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
+	{
+		russian: 'пристань',
+		german: 'die Anlegestelle, Anlegestellen'
+	},
+	{
+		russian: 'пытаться, пробовать',
+		german: 'versuchen'
+	},
+	{
+		russian: 'торопливо, поспешно',
+		german: 'eilig'
+	},
+	{
+		russian: 'взбираться (climb)',
+		german: 'klettern'
+	},
+	{
+		russian: 'жестко, крепко',
+		german: 'fest'
+	},
+	{
+		russian: 'плечо',
+		german: 'die Schulter, Schultern'
+	},
+	{
+		russian: 'держать, хранить (hold)',
+		german: 'halten'
+	},
+	{
+		russian: 'путаница (обознался)',
+		german: 'die Verwechslung, Verwechslungen'
+	},
+	{
+		russian: 'остров',
+		german: 'die Insel, Inseln'
+	},
 	// {
 	// 	russian: '',
 	// 	german: ''
