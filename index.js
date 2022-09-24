@@ -2755,18 +2755,18 @@ const dictionaryData = [
 		russian: 'остров',
 		german: 'die Insel, Inseln'
 	},
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
-	// {
-	// 	russian: '',
-	// 	german: ''
-	// },
+	{
+		russian: 'просто',
+		german: 'gerade'
+	},
+	{
+		russian: 'приниматься, браться',
+		german: 'unternehmen'
+	},
+	{
+		russian: 'случайно',
+		german: 'zufällig'
+	},
 	// {
 	// 	russian: '',
 	// 	german: ''
