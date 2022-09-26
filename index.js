@@ -2767,6 +2767,138 @@ const dictionaryData = [
 		russian: 'случайно',
 		german: 'zufällig'
 	},
+	{
+		russian: 'занятия (в классе)',
+		german: 'der Unterricht'
+	},
+	{
+		russian: 'пример',
+		german: 'das Beispiel, Beispiele'
+	},
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
+	// {
+	// 	russian: '',
+	// 	german: ''
+	// },
 	// {
 	// 	russian: '',
 	// 	german: ''
